@@ -1,0 +1,162 @@
+#+hugo_base_dir: .
+* Home
+  :PROPERTIES:
+  :EXPORT_HUGO_SECTION:
+  :END:
+
+** Home
+   :PROPERTIES:
+   :EXPORT_HUGO_MENU: :menu "main"
+   :EXPORT_FILE_NAME: _index
+   :END:
+
+   Man, look at all my blog posts.
+
+** One Bad Night  :@updates:herpes:fear:
+   :PROPERTIES:
+   :EXPORT_FILE_NAME: bad-night
+   :END:
+
+   Someone gave me herpes! Oh no!
+
+* Archives
+  :PROPERTIES:
+  :EXPORT_HUGO_SECTION: post
+  :END:
+  
+** Archives
+   :PROPERTIES:
+   :EXPORT_HUGO_MENU: :menu "main"
+   :EXPORT_FILE_NAME: _index
+   :END:
+
+This section devoted to Orson Wells, R.I.P.
+
+** Van De Camps   :@reviews:fear:
+   :PROPERTIES:
+   :EXPORT_FILE_NAME: van-de-camps
+   :END:
+
+If this is fish, I'll be a monkey's uncle.
+
+** Gortons        :@reviews:herpes:
+   :PROPERTIES:
+   :EXPORT_FILE_NAME: gortons
+   :END:
+
+   I think these gave me the herpes.
+
+** GortonsX                                                 :@reviews:herpes:
+   :PROPERTIES:
+   :EXPORT_FILE_NAME: gortonsX
+   :END:
+
+   I think these gave me the herpes.X
+** Gortons1                                                 :@reviews:herpes:
+   :PROPERTIES:
+   :EXPORT_FILE_NAME: gortons1
+   :END:
+
+   I think these gave me the herpes.X
+** Gortons2                                                 :@reviews:herpes:
+   :PROPERTIES:
+   :EXPORT_FILE_NAME: gortons2
+   :END:
+
+   I think these gave me the herpes.X
+** Gortons3                                                 :@reviews:herpes:
+   :PROPERTIES:
+   :EXPORT_FILE_NAME: gortons3
+   :END:
+
+   I think these gave me the herpes.X
+** Gortons4                                                 :@reviews:herpes:
+   :PROPERTIES:
+   :EXPORT_FILE_NAME: gortons4
+   :END:
+
+   I think these gave me the herpes.X
+** Gortons5                                                 :@reviews:herpes:
+   :PROPERTIES:
+   :EXPORT_FILE_NAME: gortons5
+   :END:
+
+   I think these gave me the herpes.X
+** Gortons6                                                 :@reviews:herpes:
+   :PROPERTIES:
+   :EXPORT_FILE_NAME: gortons6
+   :END:
+
+   I think these gave me the herpes.X
+** Gortons7                                                 :@reviews:herpes:
+   :PROPERTIES:
+   :EXPORT_FILE_NAME: gortons7
+   :END:
+
+   I think these gave me the herpes.X
+** Gortons8                                                 :@reviews:herpes:
+   :PROPERTIES:
+   :EXPORT_FILE_NAME: gortons8
+   :END:
+
+   I think these gave me the herpes.X
+** Gortons9                                                 :@reviews:herpes:
+   :PROPERTIES:
+   :EXPORT_FILE_NAME: gortons9
+   :END:
+
+   I think these gave me the herpes.X
+** Gortons10                                                :@reviews:herpes:
+   :PROPERTIES:
+   :EXPORT_FILE_NAME: gortons10
+   :END:
+
+   I think these gave me the herpes.X
+** Gortons11                                                :@reviews:herpes:
+   :PROPERTIES:
+   :EXPORT_FILE_NAME: gortons11
+   :END:
+
+   I think these gave me the herpes.X
+** Gortons12                                                :@reviews:herpes:
+   :PROPERTIES:
+   :EXPORT_FILE_NAME: gortons12
+   :END:
+
+   I think these gave me the herpes.X
+** Gortons13                                                :@reviews:herpes:
+   :PROPERTIES:
+   :EXPORT_FILE_NAME: gortons13
+   :END:
+
+   I think these gave me the herpes.X
+** Gortons14                                                :@reviews:herpes:
+   :PROPERTIES:
+   :EXPORT_FILE_NAME: gortons14
+   :END:
+
+   I think these gave me the herpes.X
+** Gortons15                                                :@reviews:herpes:
+   :PROPERTIES:
+   :EXPORT_FILE_NAME: gortons15
+   :END:
+
+   I think these gave me the herpes.X
+** Gortons16                                                :@reviews:herpes:
+   :PROPERTIES:
+   :EXPORT_FILE_NAME: gortons16
+   :END:
+
+   I think these gave me the herpes.X
+** Gortons17                                                :@reviews:herpes:
+   :PROPERTIES:
+   :EXPORT_FILE_NAME: gortons17
+   :END:
+
+   I think these gave me the herpes.X
+** Gortons18                                                :@reviews:herpes:
+   :PROPERTIES:
+   :EXPORT_FILE_NAME: gortons18
+   :END:
+
+   I think these gave me the herpes.X
