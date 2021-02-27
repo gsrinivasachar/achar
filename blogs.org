@@ -1,0 +1,52 @@
+#+hugo_base_dir: .
+* Home
+  :PROPERTIES:
+  :EXPORT_HUGO_SECTION:
+  :END:
+
+** Home
+   :PROPERTIES:
+   :EXPORT_HUGO_MENU: :menu "main"
+   :EXPORT_FILE_NAME: _index
+   :END:
+
+   Man, look at all my blog posts.
+
+* Computer Science
+  :PROPERTIES:
+  :EXPORT_HUGO_SECTION: post
+  :END:
+  
+** Archives
+   :PROPERTIES:
+   :EXPORT_HUGO_MENU: :menu "main"
+   :EXPORT_FILE_NAME: _index
+   :END:
+
+This section devoted to Orson Wells, R.I.P.
+
+** What every computer science major should know! :@computer_science:essentials:
+   :PROPERTIES:
+   :EXPORT_FILE_NAME: 1
+   :END:
+
+   What every computer science major should know!
+
+   + Portfolio versus Resume
+   + Programming languages
+   + Discrete mathematics
+   + Data structures and algorithms
+   + Theory
+   + Architecture
+   + Operating systems
+   + Networking
+   + Security
+   + User experience design (UX)
+   + Software engineering
+   + Artificial intelligence
+   + Databases
+
+   Are you curious? read the original article.
+
+   https://everythingcomputerscience.com/
+
