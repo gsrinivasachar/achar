@@ -50,3 +50,27 @@ This section devoted to Orson Wells, R.I.P.
 
    https://everythingcomputerscience.com/
 
+** Test
+   :PROPERTIES:
+   :EXPORT_FILE_NAME: 2
+   :END:
+
+   Test
+
+   + Portfolio versus Resume,
+   + Programming languages,
+
+     Youtube
+     
+     #+begin_export html
+     <iframe width="708" height="398" src="https://www.youtube.com/embed/ITop66jnk2A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>   
+     #+end_export
+
+     Slideplayer
+     
+     #+begin_export html
+     <div style="width:728px"> <strong style="display:block;margin:12px 0 4px"><a href="http://slideplayer.com/slide/4435549/" title="Conceptual Dependency" target="_blank">Conceptual Dependency</a></strong><iframe src="https://player.slideplayer.com/14/4435549/" width="728" height="595" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC;border-width:1px 1px 0" allowfullscreen></iframe><div style="padding:5px 0 12px"></div></div>
+     #+end_export
+
+     <iframe src="//www.slideshare.net/slideshow/embed_code/key/27D5UNrUvyDJjC" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/kegill/how-to-embed-slideshare-shows-into-wordpresscom" title="How To Embed SlideShare Shows Into WordPress.com" target="_blank">How To Embed SlideShare Shows Into WordPress.com</a> </strong> from <strong><a href="//www.slideshare.net/kegill" target="_blank">Kathy Gill</a></strong> </div>
+     

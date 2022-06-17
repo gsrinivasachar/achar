@@ -1,4 +1,4 @@
-baseURL: "https://gsrinivasachar.netlify.app"
+baseURL: "https://localhost:1313/"
 title: g.srinivasachar
 paginate: 5
 theme: PaperMod
@@ -31,12 +31,12 @@ params:
   ShowPostNavLinks: true
   ShowBreadCrumbs: true
   ShowCodeCopyButtons: false
-  ShowWordCount: true
+  ShowWordCount: false
   ShowRssButtonInSectionTermList: true
   UseHugoToc: true
   disableSpecial1stPost: false
   disableScrollToTop: false
-  comments: false
+  comments: true
   hidemeta: false
   hideSummary: false
   showtoc: false
@@ -52,7 +52,7 @@ params:
     safari_pinned_tab: "<link / abs url>"
 
   label:
-    text: "Home"
+    text: "A..."
     icon: /apple-touch-icon.png
     iconHeight: 35
 
@@ -73,8 +73,8 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: "Hi,"
-    Content: Welcome to my blog!
+   Title: "Hi"
+   Content: Welcome to my blog!. Find below summary of the posts. Check categories menu for more.
 
   socialIcons:
     - name: twitter
@@ -97,10 +97,10 @@ params:
     hiddenInList: true # hide on list pages and home
     hiddenInSingle: true # hide on single page
 
-  editPost:
-    URL: "https://github.com/<path_to_repo>/content"
-    Text: "Suggest Changes" # edit text
-    appendFilePath: true # to append file path to Edit link
+  # editPost:
+  #  URL: "https://github.com/<path_to_repo>/content"
+  #  Text: "Suggest Changes" # edit text
+  #  appendFilePath: true # to append file path to Edit link
 
   # for search
   # https://fusejs.io/api/options.html
@@ -114,14 +114,26 @@ params:
     keys: ["title", "permalink", "summary", "content"]
 menu:
   main:
-    - identifier: categories
-      name: categories
-      url: /categories/
-      weight: 10
-    - identifier: tags
-      name: tags
-      url: /tags/
-      weight: 20
+    - identifier: archive
+      name: Archive
+      url: /archives/
+      weight: 5
+    - identifier: blog
+      name: Blog
+      url: /post/
+      weight: 6
+    #- identifier: categories
+    #  name: categories
+    #  url: /categories/
+    #  weight: 10
+    #- identifier: tags
+    #  name: tags
+    #  url: /tags/
+    #  weight: 20
+    - identifier: search
+      name: Search
+      url: /search/
+      weight: 30      
 
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 # pygmentsUseClasses: true
@@ -132,3 +144,4 @@ menu:
 #         guessSyntax: true
 #         lineNos: true
 #         style: monokai
+disqusShortname: achar
