@@ -1,50 +1,66 @@
+#+STARTUP: overview
 #+hugo_base_dir: .
-* Home
-  :PROPERTIES:
-  :EXPORT_HUGO_SECTION:
-  :END:
+#+options: author:nil
+#+hugo_auto_set_lastmod: t
 
-** Home
-   :PROPERTIES:
+* Menu
+  :PROPERTIES:
+  :EXPORT_HUGO_SECTION: .
+  :END:
+** About
+   :PROPERTIES: 
    :EXPORT_HUGO_MENU: :menu "main"
-   :EXPORT_FILE_NAME: _index
+   :EXPORT_FILE_NAME: about
    :END:
 
-   Man, look at all my blog posts.
+   #+begin_example
+      __ _   ___ _ __(_)_ __ (_)_   ____ _ ___  __ _  ___| |__   __ _ _ __ 
+     / _` | / __| '__| | '_ \| \ \ / / _` / __|/ _` |/ __| '_ \ / _` | '__|
+    | (_| |_\__ \ |  | | | | | |\ V / (_| \__ \ (_| | (__| | | | (_| | |   
+     \__, (_)___/_|  |_|_| |_|_| \_/ \__,_|___/\__,_|\___|_| |_|\__,_|_|   
+     |___/                                                                 
+   #+end_example
+
+   Masters in Physics from university of Mysore and Masters in
+   Computer Science fron IIT Madras.
+
+   Associated in the development of large distributed systems
+   during my career.
+
+   Problem solving and curiosity in emerging technologies are some of
+   my interests.
+
+   G. Srinivasachar \\
+   Assistant Professor \\
+   Atria I.T \\
+   Bengaluru 560024
 
 * Computer Science
   :PROPERTIES:
-  :EXPORT_HUGO_SECTION: post
+  :EXPORT_HUGO_SECTION: posts
   :END:
-  
-** Archives
-   :PROPERTIES:
-   :EXPORT_HUGO_MENU: :menu "main"
-   :EXPORT_FILE_NAME: _index
-   :END:
-
-This section devoted to Orson Wells, R.I.P.
 
 ** What every computer science major should know! :@computer_science:essentials:
    :PROPERTIES:
+   :EXPORT_DATE: 2017-12-19
    :EXPORT_FILE_NAME: 1
    :END:
 
    What every computer science major should know!
 
-   + Portfolio versus Resume
-   + Programming languages
-   + Discrete mathematics
-   + Data structures and algorithms
-   + Theory
-   + Architecture
-   + Operating systems
-   + Networking
-   + Security
-   + User experience design (UX)
-   + Software engineering
-   + Artificial intelligence
-   + Databases
+   + Portfolio versus Resume,
+   + Programming languages,
+   + Discrete mathematics,
+   + Data structures and algorithms,
+   + Theory,
+   + Architecture,
+   + Operating systems,
+   + Networking,
+   + Security,
+   + User experience design (UX),
+   + Software engineering,
+   + Artificial intelligence,
+   + Databasesg
 
    Are you curious? read the original article.
 
@@ -60,17 +76,65 @@ This section devoted to Orson Wells, R.I.P.
    + Portfolio versus Resume,
    + Programming languages,
 
+     Image Link
+
+     #+ATTR_HTML: :width 30px
+     [[/X.png][file:/X.png]]
+
+     Form Link
+     
+     #+ATTR_HTML: :width 30px
+     [[https://forms.gle/SkgVVbHm8Ed4ABrG6][file:/X.png]]
+     
+     Twitter
+     @@md:{{< tweet user="officialmcafee" id="1405918427663982594" >}}@@
+
+
      Youtube
-     
-     #+begin_export html
-     <iframe width="708" height="398" src="https://www.youtube.com/embed/ITop66jnk2A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>   
-     #+end_export
 
-     Slideplayer
-     
-     #+begin_export html
-     <div style="width:728px"> <strong style="display:block;margin:12px 0 4px"><a href="http://slideplayer.com/slide/4435549/" title="Conceptual Dependency" target="_blank">Conceptual Dependency</a></strong><iframe src="https://player.slideplayer.com/14/4435549/" width="728" height="595" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC;border-width:1px 1px 0" allowfullscreen></iframe><div style="padding:5px 0 12px"></div></div>
-     #+end_export
+     @@md:{{< youtube id="ITop66jnk2A" title="Introduction" start="5" >}}@@
 
-     <iframe src="//www.slideshare.net/slideshow/embed_code/key/27D5UNrUvyDJjC" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/kegill/how-to-embed-slideshare-shows-into-wordpresscom" title="How To Embed SlideShare Shows Into WordPress.com" target="_blank">How To Embed SlideShare Shows Into WordPress.com</a> </strong> from <strong><a href="//www.slideshare.net/kegill" target="_blank">Kathy Gill</a></strong> </div>
+     GIST
      
+     @@md:{{< gist opsxcq f5b3ba08f45d70f998a4cc8a25bf57a3 >}}@@
+
+     [[https://forms.gle/SkgVVbHm8Ed4ABrG6][CNS Lab Survey]]
+
+     Discuss
+
+* Physics
+  :PROPERTIES:
+  :EXPORT_HUGO_SECTION: phy
+  :END:
+** Phy                                                              :@Physics:
+   :PROPERTIES:
+   :EXPORT_FILE_NAME: 1
+   :END:
+
+   PHYSICS
+
+* Chemistry
+  :PROPERTIES:
+  :EXPORT_HUGO_SECTION: chem
+  :END:
+** Chem
+   :PROPERTIES:
+   :EXPORT_FILE_NAME: 1
+   :END:
+
+   CHEMISTRY
+
+* Mathematics
+  :PROPERTIES:
+  :EXPORT_HUGO_SECTION: math
+  :END:
+** Math
+   :PROPERTIES:
+   :EXPORT_FILE_NAME: 1
+   :END:
+
+   MATHEMATICS
+
+  
+  
+  

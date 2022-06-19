@@ -9,6 +9,7 @@ buildFuture: false
 buildExpired: false
 
 googleAnalytics: UA-123-45
+disqusShortname: "gsrinivasachar"
 
 minify:
   disableXML: true
@@ -41,7 +42,7 @@ params:
   hideSummary: false
   showtoc: false
   tocopen: false
-
+  
   assets:
     # disableHLJS: true # to disable highlight.js
     # disableFingerprinting: true
@@ -120,7 +121,7 @@ menu:
       weight: 5
     - identifier: blog
       name: Blog
-      url: /post/
+      url: /posts/
       weight: 6
     #- identifier: categories
     #  name: categories
@@ -144,4 +145,10 @@ menu:
 #         guessSyntax: true
 #         lineNos: true
 #         style: monokai
-disqusShortname: achar
+
+outputs:
+    home:
+        - HTML
+        - RSS
+        - JSON # is necessary
+
