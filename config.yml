@@ -1,4 +1,4 @@
-baseURL: "https://localhost:1313/"
+baseURL: " https://gsrinivasachar.netlify.app/"
 title: g.srinivasachar
 paginate: 5
 theme: PaperMod
