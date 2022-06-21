@@ -1,4 +1,4 @@
-baseURL: "https://gsrinivasachar.netlify.app"
+baseURL: "https://localhost:1313/"
 title: g.srinivasachar
 paginate: 5
 theme: PaperMod
@@ -53,9 +53,9 @@ params:
     safari_pinned_tab: "<link / abs url>"
 
   label:
-    text: "A..."
+    text: "achar"
     icon: /apple-touch-icon.png
-    iconHeight: 35
+    iconHeight: 20
 
   # profile-mode
   profileMode:
