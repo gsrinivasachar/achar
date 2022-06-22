@@ -16,8 +16,8 @@
    My Contact:
 
    #+begin_example
-   +91 9663723292
-   gsrinivasachar@gmail.com
+   Mobile: +91 9663723292
+   Email : gsrinivasachar@gmail.com
    #+end_example
 
    Need help?

@@ -1,6 +1,6 @@
 +++
 title = "Contact"
-lastmod = 2022-06-22T15:32:12+05:30
+lastmod = 2022-06-22T15:36:38+05:30
 draft = false
 [menu]
   [menu.main]
@@ -11,8 +11,8 @@ draft = false
 My Contact:
 
 ```text
-+91 9663723292
-gsrinivasachar@gmail.com
+Mobile: +91 9663723292
+Email : gsrinivasachar@gmail.com
 ```
 
 Need help?
