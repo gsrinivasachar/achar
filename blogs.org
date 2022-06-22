@@ -7,6 +7,23 @@
   :PROPERTIES:
   :EXPORT_HUGO_SECTION: .
   :END:
+** Contact
+   :PROPERTIES: 
+   :EXPORT_HUGO_MENU: :menu "main"
+   :EXPORT_FILE_NAME: contact
+   :END:
+
+   My Contact:
+
+   #+begin_example
+   +91 9663723292
+   gsrinivasachar@gmail.com
+   #+end_example
+
+   Need help?
+
+   Click on [[https://forms.gle/gAUDPNdFC5PvVsY17][MESSAGE]] to register the request.
+   
 ** About
    :PROPERTIES: 
    :EXPORT_HUGO_MENU: :menu "main"
@@ -98,9 +115,15 @@
      
      @@md:{{< gist opsxcq f5b3ba08f45d70f998a4cc8a25bf57a3 >}}@@
 
-     [[https://forms.gle/SkgVVbHm8Ed4ABrG6][CNS Lab Survey]]
+     PDF
 
-     Discuss
+     [[~/course/mobile/lp.pdf][LP.pdf]]
+
+     [[https://drive.google.com/file/d/1nKvpYAu5RCVjLDJGkaVsEPea7AnxrfR4/view?usp=sharing][Module I]]
+
+     Contact
+
+     [[https://forms.gle/gZyYkqsuQUHRKfXF9][Contact Form]]
 
 * Physics
   :PROPERTIES:
