@@ -135,7 +135,7 @@
 
    #+ATTR_HTML: :width 500px
    #+CAPTION: Digital Signature
-   [[file:./static/img/3/digital-signature.png]]
+   [[file:/img/3/digital-signature.png]]
 
    Proves that the document is not tampered and issued by intended
    person.
@@ -146,7 +146,7 @@
    :END:
 
    #+CAPTION: Firewall
-   [[file:./static/img/4/firewall.png]]
+   [[file:/img/4/firewall.png]]
 
    + Filter IP packets to a destination or from a source
 ** RSA
@@ -156,7 +156,7 @@
    :END:
 
    #+CAPTION: RSA
-   [[file:./static/img/5/RSA.png]]
+   [[file:/img/5/RSA.png]]
    
    1. $C = P^e \, mod \, n$
    2. $P = C^d \, mod \, n$
