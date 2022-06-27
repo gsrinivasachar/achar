@@ -20,14 +20,14 @@ params:
   title: g.srinivasachar
   description: "ExampleSite description"
   keywords: [Blog, Portfolio, PaperMod]
-  author: Me
+  # author: Me
   # author: ["Me", "You"] # multiple authors
   images: ["<link or path of image for opengraph, twitter-cards>"]
   DateFormat: "January 2, 2006"
   defaultTheme: auto # dark, light
   disableThemeToggle: false
 
-  ShowReadingTime: true
+  ShowReadingTime: false
   ShowShareButtons: true
   ShowPostNavLinks: true
   ShowBreadCrumbs: true
@@ -75,7 +75,7 @@ params:
   # home-info mode
   homeInfoParams:
    Title: "Hi"
-   Content: Welcome to my blog!. Find below summary of the posts. Check categories menu for more.
+   Content: You are welcome!
 
   socialIcons:
     - name: twitter
@@ -123,10 +123,10 @@ menu:
       name: Blog
       url: /posts/
       weight: 6
-    #- identifier: categories
-    #  name: categories
-    #  url: /categories/
-    #  weight: 10
+    - identifier: categories
+      name: categories
+      url: /categories/
+      weight: 10
     #- identifier: tags
     #  name: tags
     #  url: /tags/
